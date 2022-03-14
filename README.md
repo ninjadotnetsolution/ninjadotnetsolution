@@ -6,21 +6,7 @@ I am a senior .NET developer.
 I have solid experience in C# WPF, VB, TypeScript, Angular, XAML, Entity, and MS SQL.
 And I am familiar with MVVM pattern.
   
-  
 
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
