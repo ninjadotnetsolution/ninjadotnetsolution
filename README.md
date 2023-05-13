@@ -33,11 +33,11 @@ And I am familiar with MVVM pattern.
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dotnetexpertbc&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ninjadotnetsolution&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotnetexpertbc&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjadotnetsolution&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -47,7 +47,7 @@ And I am familiar with MVVM pattern.
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=dotnetexpertbc&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=ninjadotnetsolution&&style=flat-square)  
   
 
 <br/>  
