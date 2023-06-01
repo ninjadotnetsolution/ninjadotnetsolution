@@ -3,7 +3,7 @@
 ### Glad to see you here!  
 Thank you for reaching my profile!
 I am a senior .NET developer.
-I have solid experience in C# WPF, VB, TypeScript, Angular, XAML, Entity, and MS SQL.
+I have solid experience in Algorithm, C# WPF, ASP.NET Core, ASP.NET MVC and Angular
 And I am familiar with MVVM pattern.
   
   
